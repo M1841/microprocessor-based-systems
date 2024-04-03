@@ -14,7 +14,6 @@ public start
 ; Determine the minimum and maximum values in a signed (positive and negative) integer array represented on BYTE. Write the minimum and maximum in the memory.
 .code
 start:
-	MOV EAX, 0
 	MOV ECX, 0
 
 	MOV BH, -128
